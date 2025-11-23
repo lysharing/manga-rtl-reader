@@ -109,7 +109,7 @@ background: #b921d4ff;
 {
   "manifest_version": 3,
   "name": "Manga RTL Reader",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "Optimized manga reader for Right-to-Left reading",
   "permissions": ["activeTab", "scripting"],
   "action": {
