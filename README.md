@@ -47,11 +47,19 @@ Chrome extension for reading manga online with an optimized **Right-to-Left** re
 
 2. **Project structure**
 ```
+🇫🇷
     manga-rtl-reader/
     ├── manifest.json      ← Configure l'extension (OBLIGATOIRE)
     ├── background.js      ← Gère les événements (OBLIGATOIRE)
     ├── rtl.js             ← Ton code manga (OBLIGATOIRE)
     └── README.md          ← Documentation (optionnel)
+
+🇺🇸
+    manga-rtl-reader/
+    ├── manifest.json      ← Configure the extension (REQUIRED)
+    ├── background.js      ← Handles events (REQUIRED)
+    ├── rtl.js             ← Your manga code (REQUIRED)
+    └── README.md          ← Documentation (optional)
 ```
 
 3. **Load in Chrome**
