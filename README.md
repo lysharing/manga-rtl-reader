@@ -169,5 +169,5 @@ Developed with ❤️ for manga lovers
 
 ---
 
-**Version**: 1.0  
+**Version**: 1.0.0  
 **Last Updated**: November 2024
