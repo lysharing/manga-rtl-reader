@@ -173,7 +173,7 @@ chrome.action.onClicked.addListener((tab) => {
 
 MIT License - Free to use and modify
 
-## 👨‍💻 Author
+## ⚜️ Author
 
 Developed with ❤️ for manga lovers
 
