@@ -68,6 +68,9 @@ Chrome extension for reading manga online with an optimized **Right-to-Left** re
    - Click **Load unpacked**
    - Select the `manga-rtl-reader` folder
 
+  Illustration: 
+  <img width="1439" height="222" alt="Capture d’écran 2025-11-23 à 03 17 14" src="https://github.com/user-attachments/assets/ba52f2de-162a-422f-b97c-51692a3002b1" />
+
 ### Method 2: Install from Chrome Web Store
 *[Coming soon]*
 
