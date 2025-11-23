@@ -41,7 +41,7 @@ Chrome extension for reading manga online with an optimized **Right-to-Left** re
 
 1. **Download files**
 ```bash
-   git clone [REPO_URL]
+   git https://github.com/lysharing/manga-rtl-reader.git
    cd manga-rtl-reader
 ```
 
