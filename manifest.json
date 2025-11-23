@@ -3,15 +3,14 @@
     "name": "Manga RTL Reader",
     "version": "1.0.0",
     "description": "Affiche les pages de scan en mode lecture droite→gauche, viewer horizontal et navigation clavier.",
-    "permissions": ["scripting", "activeTab"],
-    "host_permissions": [
-        "https://mangabuddy.com/*",
-        "https://*.mangabuddy.com/*"
-    ],
+    "permissions": ["activeTab", "scripting"],
     "action": {
         "default_title": "Activer Manga RTL"
     },
     "background": {
         "service_worker": "background.js"
+    },
+    "icons": {
+        "128": "icon.png"
     }
 }
